@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Remo horizontal con barra",
+        "level": "Principante",
+        "equipment": ["Barra"],
+        "description": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "reps": "10",
+        "sets": 3,
+        "pause": "1 min.",
+        "body_parts":["Espalda"]
+    },
+    {
+        "id": 2,
+        "title": "Jalón al pecho",
+        "level": "Principante",
+        "equipment": ["Máquina"],
+        "description": "<p className='pb-3'>Primero, asegúrate de que la barra larga está bien enganchada a la máquina. Ajusta el rodillo a la medida adecuada para bloquear tus piernas. Sujeta la barra con las palmas de las manos mirando hacia delante (agarre en pronación) y con una separación de más del ancho de los hombros.</p> <p className='pb-3'>Inclínate ligeramente hacia atrás (unos 20º aproximadamente), saca pecho y contrae el abdomen. Tira de la barra hacia la parte superior del pecho mientras aprietas los omóplatos. Los codos deben moverse hacia abajo y no hacia atrás.</p> <p>De forma lenta y controlada, lleva la barra a la posición inicial estirando completamente los brazos y estirando los dorsales. Repite el proceso las veces indicadas.</p>",
+        "reps": "12",
+        "sets": 3,
+        "pause": "1 min.",
+        "body_parts":["Espalda"]
+    },
+    {
+        "id": 3,
+        "title": "Press de banca",
+        "level": "Principante",
+        "equipment":["Barra", "Banco"],
+        "description": "<p className='pb-3'>Túmbate de espaldas en un banco plano con las plantas de los pies apoyadas en el suelo y sujeta la barra con las manos separadas un poco más del ancho de los hombros. Saca la barra del soporte y flexiona los codos para bajar la barra hacia el pecho. Haz una pausa con la barra a unos pocos centímetros del pecho y súbela extendiendo los brazos, pero sin llegar a bloquear los codos en la parte alta del ejercicio.</p> <p className='pb-3'>Controla las fases excéntrica y concéntrica del ejercicio contando tres segundos tanto en la subida como en la bajada de la barra.</p>",
+        "reps": "10-15",
+        "sets": 3,
+        "pause": "1 min.",
+        "body_parts":["Pecho", "Brazos"]
+    },
+    {
+        "id": 4,
+        "title": "Press de banca con mancuernas",
+        "level": "Principante",
+        "equipment": ["Mancuernas", "Banco"],
+        "description": "<p className='pb-3'>Túmbate en un banco plano (también puedes inclinar ligeramente el banco) boca arriba y sujeta un par de mancuernas con las manos, con los brazos extendidos hacia el techo y las mancuernas a la altura del pecho. Contrae el abdomen y retrae las escápulas. Esta es la posición inicial.</p> <p className='pb-3'>Baja las mancuernas hacia el pecho flexionando únicamente los codos, hasta que estos formen un ángulo de 90º. Haz una parada en esa posición y empuja las mancuernas hacia arriba de forma controlada hasta la posición inicial. Controla las fases excéntrica y concéntrica del ejercicio contando tres segundos tanto en la subida como en la bajada de las mancuernas.</p>",
+        "reps": "10-12",
+        "sets": 3,
+        "pause": "1 min.",
+        "body_parts":["Pecho", "Brazos"]
+    },
+    {
+        "id": 5,
+        "title": "Plancha lateral",
+        "level": "Principante",
+        "equipment": ["Ninguno"],
+        "description": "<p className='pb-3'>Empieza este ejercicio tumbado del lado derecho, con los pies uno detrás de otro. Apoya el antebrazo en el suelo en perpendicular al cuerpo. Levanta las caderas del suelo y endereza el cuerpo, formando una línea recta de la cabeza a los pies.</p> <p className='pb-3'>Mantén esta posición durante 15 segundos y cambia de lado. Realiza 3 series de 15 segundos con cada lado para empezar y ve aumentando los tiempos a medida que progreses.</p>",
+        "reps": "15 sec.",
+        "sets": 3,
+        "pause": "30 sec.",
+        "body_parts":["Core"]
+    },
+    {
+        "id": 6,
+        "title": "Sentadilla con barra",
+        "level": "Intermedio",
+        "equipment": ["Barra"],
+        "description": "<p className='pb-3'>Colocamos la barra en el rack a la altura del esternón y nos colocamos frente a la barra. La barra la debemos colocar en el hueco de los trapecios. Sacamos la barra hacia atrás, a un paso de ella. Si nos separamos demasiado con la barra cargada podemos fatigarnos. La amplitud del agarre depende de la flexibilidad de cada uno, cuanto más junta más compactos nos sentiremos.</p> <p className='pb-3'>La cabeza mirando al frente, el peso de la barra en los trapecios y los talones bien pegados al suelo.</p>",
+        "reps": "6-8",
+        "sets": 4,
+        "pause": "2 min.",
+        "body_parts":["Piernas","Core"]
+    },
+    {
+        "id": 7,
+        "title": "Peso muerto",
+        "level": "Intermedio",
+        "equipment":["Barra"],
+        "description": "<p className='pb-3'>Separa los pies a la altura de las caderas y sostiene la barra con las manos, manteniendo los brazos rectos. Contrae los glúteos - este es el gran secreto para obtener mejores resultados, pero también para evitar lesiones - y dobla las caderas hacia adelante, flexionando ligeramente las rodillas, hasta que lleves la barra al suelo, o tanto como puedas.</p> <p className='pb-3'>Empuja los glúteos hacia atrás, siempre con la espalda recta.</p> ",
+        "reps": "8-12",
+        "sets": 4,
+        "pause": "1 min.",
+        "body_parts":["Gluteo", "Piernas"]
+    },
+    {
+        "id": 8,
+        "title": "Puente de glúteo",
+        "level": "Principante",
+        "equipment": ["Banda elástica"],
+        "description": "<p className='pb-3'>Túmbese boca arriba con los pies apoyados en el suelo. Sus rodillas deben estar a 90º Sus pies deben estar separados al ancho de los hombros. Coloque una miniband alrededor de la parte superior de las rodillas y sus manos a ambos lados de sus caderas.</p> <p className='pb-3'>Contraiga el suelo pelvico y el core mientras mantiene su pecho levantado. A través de sus talones, extienda sus caderas verticalmente. Mantenga la posición durante el tiempo requerido. Vuelva a la posición inicial con un suave movimiento.</p>",
+        "reps": "12-15",
+        "sets": 3,
+        "pause": "1 min.",
+        "body_parts":["Gluteo", "Core"]
+    }
+]

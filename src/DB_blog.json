@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Evita estos errores que te impiden lograr un cuerpo de chica fitness",
+        "timestamp": "hoy",
+        "image_url": "IMG",
+        "premium": false,
+        "content": "<p className='pb-3'>Tener un cuerpo definido es algo que no se consigue de la noche a la mañana. Aunque algunos anuncios prometen milagros, la verdad es que seguir un estilo de vida saludable puede significar realizar varios cambios en tu día a día para incorporar nuevos hábitos más sanos. Vamos a facilitar tu proceso con algunos consejos para evitar errores comunes:</p><p className='pb-3'>1. Para conseguir un cuerpo fitness no hay que reducir el aporte calórico diario. La calidad y la variedad de la comida es aún más importante que la cantidad. Sobre todo si estás empezando a llevar un estilo de vida más activo te sugerimos que consultes con un experto en nutrición para aclarar todas tus dudas.</p><p className='pb-3'>2. El ejercicio también hay que realizarlo de forma equilibrada. Practicar ejercicios todos los días no solo no es necesario, sino que puede ser contraproducente.</p><p className='pb-3'>3. La hidratación es otro factor importante y lo mejor que puede beber es el agua. Otras bebidas isotónicas pueden tener azúcares y otros ingredientes poco sanos.</p><p className='pb-3'>4. Hacer poco y bien es mejor que hacer mucho y mal. Con relación a los ejercicios dominar la técnica es una prioridad que te permite evitar lesiones. Ya sabes que en FIATC somos especialistas en seguros médicos. Si estás buscando uno, aquí puedes informarte sobre los mejores seguros de salud.</p>",
+        "category":"Consejos y trucos"
+    },
+    {
+        "id": 2,
+        "title": "¿Cuáles son los mejores ejercicios para brazos de mujeres?",
+        "timestamp": "hace 2 días",
+        "image_url": "IMG",
+        "premium": false,
+        "content": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "category":"Motivación"
+    },
+    {
+        "id": 3,
+        "title": "Cómo mejorar tu entrenamiento",
+        "timestamp": "hace 1 semana",
+        "image_url": "IMG",
+        "premium": true,
+        "content": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "category":"Noticias"
+    },
+    {
+        "id": 4,
+        "title": "Tonifica tu cuerpo",
+        "timestamp": "hace 1 semana",
+        "image_url": "",
+        "premium": false,
+        "content": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "category":"Motivación"
+    },
+    {
+        "id": 5,
+        "title": "¿Por qué debes comer más despacio?",
+        "timestamp": "hace 2 semanas",
+        "image_url": "",
+        "premium": false,
+        "content": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "category":"Noticias"
+    },
+    {
+        "id": 6,
+        "title": "Las mejores recetas de postre fit",
+        "timestamp": "hace 1 mes",
+        "image_url": "",
+        "premium": true,
+        "content": "<p className='pb-3'>Para iniciar el movimiento debemos colocarnos de pie con las rodillas ligeramente flexionadas y el tronco inclinado formando con las piernas un ángulo de 45º. Con la espalda recta y la barra tomada en pronación, con las palmas hacia abajo, separamos las manos de la anchura de los hombros, y dejamos caer los brazos frente al torso.</p> <p>Des de allí inspiramos y efectuamos una contracción abdominal mientras tiramos la barra hacia el pecho para luego espirar y regresar lentamente hacia la posición inicial.</p>",
+        "category":"Motivación"
+    }
+]
