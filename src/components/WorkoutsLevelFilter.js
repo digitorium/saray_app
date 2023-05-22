@@ -18,7 +18,7 @@ const WorkoutsLevelFilter = () => {
         <h2 className='text-lg font-semibold dark:text-white'>Entrenamientos por experiencia</h2>
         <ChevronRightIcon className='h-4 w-4 mr-8 dark:text-white' aria-hidden='true' />
       </a>
-      <div className='py-6'>
+      <div className='py-6 dark:bg-gray-900'>
         <Swiper
           spaceBetween={-20}
           slidesPerView={2.4}
